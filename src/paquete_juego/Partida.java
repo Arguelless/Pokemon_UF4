@@ -1,5 +1,5 @@
 package paquete_juego;
 
-public class Usuario {
+public class Partida {
 
 }
